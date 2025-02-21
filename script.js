@@ -16,6 +16,6 @@ function CambiarAleatorio(elemento){
             break;
         default:
             elemento.style.color = "White"
-            break
+            break;
     }
 }
